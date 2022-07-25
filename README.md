@@ -4,4 +4,9 @@ An android application that enables the user to take notes.
 ## Default Screen (Landing Page)
 !['Default Screen'](defaultScreen.png)
 
+## Adding a New Note
+!['Adding New Note'](addingNote.png)
+
+
+
 
