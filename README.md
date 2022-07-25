@@ -20,6 +20,6 @@ An android application that enables the user to take notes.
 !['Deleting Already Existing Note'](deleteNote.png)
 
 ## Note Deleted Successfully
-!['Note Deleted Successfully'](noteDelete.png)
+!['Note Deleted Successfully'](noteDeleted.png)
 
 
