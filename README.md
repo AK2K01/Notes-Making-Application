@@ -19,6 +19,7 @@ An android application that enables the user to take notes.
 ## Deleting an Already Existing Note
 !['Deleting Already Existing Note'](deleteNote.png)
 
-## 
+## Note Deleted Successfully
+!['Note Deleted Successfully'](noteDelete.png)
 
 
