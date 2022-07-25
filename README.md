@@ -7,6 +7,7 @@ An android application that enables the user to take notes.
 ## Adding a New Note
 !['Adding New Note'](addingNote.png)
 
-
+## Note Added Successfully
+!['Note Added'](noteAdded.png)
 
 
